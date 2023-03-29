@@ -1,0 +1,227 @@
+@font-face {font-family:Arial, Helvetica, sans-serif;}
+
+.fundo {position: fixed;}
+
+h1 {width: 200px; height: 200px; 
+    position: relative; left: 940px; top: 120px;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 50px;
+color: #000;}
+
+
+        .logo{position: relative;left:0px;} 
+
+        a {position: relative; left:750px; top:-60px; font-family: Arial, Helvetica, sans-serif; font-size: 20px; color: #000; padding-left: 50px; left: 960px;}
+
+        footer {position: absolute; background-color: #000; width: 100%; height: 100px; bottom:  0px;}
+
+        h4{font-family: Arial, Helvetica, sans-serif; font-size: 15px; text-align: center; left: 30px;top: 20px;position: relative;}
+
+        h5 { font-family: Arial, Helvetica, sans-serif; font-size: 15px; top: 20px; position: relative; }
+
+        H6 {font-family: Arial, Helvetica, sans-serif; font-size: 15px; position: relative;top: 20PX; }
+
+        footer a {position: absolute;top: 90px;}
+
+        .ctt {font-family: Arial, Helvetica, sans-serif; font-size: 15px; text-align: left;margin-top: -40px; left: 10px;}
+
+        .principal {width: 850px;  height: 0px; position: absolute;left: 950px;top: 350px;
+            font-family:Arial, Helvetica, sans-serif;
+            font-size: 25px;
+            color:#000;}
+
+            .telefone {position: relative; left: 79%;bottom: 45px; width: 20px;} 
+
+            .numero {font-family: Arial, Helvetica, sans-serif; font-size: 19px; left: 83%; margin-top: -40px;position: relative; }
+
+           .inst {position: absolute; left: 42%;bottom: 20px; left: -260%;} 
+
+           .eu {width: 600px; position: absolute;left: 30px;top: 200px;}
+           .eu:hover{filter: drop-shadow(10px 10px 40px #8a7e7ea2);}
+
+           .marcador {position: absolute; margin-top: 30px;width: 145px; left: 88%;}
+           .marcador{transition: all 1s;cursor: pointer;}
+                .marcador:hover{transform: scale(1.1)}
+
+           .text_marcador {width: 250px;  height: 0px; position: absolute; right: -0px;top: 729px; left: 1645px;
+            font-family:Arial, Helvetica, sans-serif;
+            font-size: 13px;
+            color:#000;}
+
+            .tipografia {position: absolute; top: 200px;width: 360px; left: 63%; bottom: 50px;}
+            .tipografia{transition: all 1s;cursor: pointer;}
+                .tipografia:hover{transform: scale(1.1)}
+
+            .text_tipografia {width: 350px;  height: 0px; position: absolute; right: -0px;top: 705px; left: 1225px;
+                font-family:Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color:#000;}
+
+                .manjar { position: absolute;  width: 370px; top: 200px; left: 39%;}
+                .manjar{transition: all 1s;cursor: pointer;}
+                .manjar:hover{transform: scale(1.1)}
+
+                .text_manjar {width: 350px;  height: 0px; position: absolute; right: -0px;top: 580px; left: 780px;
+                    font-family:Arial, Helvetica, sans-serif;
+                    font-size: 15px;
+                    color:#000;}
+
+                    .text_funtee {width: 450px;  height: 0px; position: absolute; right: -0px;top: 685px; left: 195px;
+                        font-family:Arial, Helvetica, sans-serif;
+                        font-size: 15px;
+                        color:#000;}
+
+                        .text_calendario {width: 550px;  height: 0px; position: absolute; right: -0px;top: 680px; left: 1115px;
+                            font-family:Arial, Helvetica, sans-serif;
+                            font-size: 18px;
+                            color:#000;}
+
+
+                            .zopato { position: relative;  width: 340px; bottom: -150px; left: 45px;}
+                            .zopato{transition: all 1s;cursor: pointer;}
+                .zopato:hover{transform: scale(1.1)}
+
+                            .garden { position: relative;  width: 340px; bottom: -150px; left: 45px;}
+                            .garden{transition: all 1s;cursor: pointer;}
+                            .garden:hover{transform: scale(1.1)}
+
+                            .nutrer { position: relative;  width: 340px; bottom: -120px; left: 70px;}
+                            .nutrer{transition: all 1s;cursor: pointer;}
+                            .nutrer:hover{transform: scale(1.1)}
+
+                            .prija { position: relative;  width: 340px; bottom: -120px; left: 80px;}
+                            .prija{transition: all 1s;cursor: pointer;}
+                            .prija:hover{transform: scale(1.1)}
+
+                            .cacau { position: relative;  width: 340px; bottom: -150px; right: -90px;}
+                            .cacau{transition: all 1s;cursor: pointer;}
+                            .cacau:hover{transform: scale(1.1)}
+
+
+                            .text_zopato {width: 300px;  height: 0px; position: absolute; right: -0px;top: 650px; left: 85px;
+                                font-family:Arial, Helvetica, sans-serif;
+                                font-size: 17px;
+                                color:#000;}
+
+                                .text_garden {width: 300px;  height: 0px; position: absolute; right: -0px;top: 625px; left: 425px;
+                                    font-family:Arial, Helvetica, sans-serif;
+                                    font-size: 17px;
+                                    color:#000;}
+
+                                    .text_nutrer {width: 300px;  height: 0px; position: absolute; right: -0px;top: 570px; left: 815px;
+                                        font-family:Arial, Helvetica, sans-serif;
+                                        font-size: 17px;
+                                        color:#000;}
+
+                                        
+                                    .text_prija {width: 300px;  height: 0px; position: absolute; right: -0px;top: 540px; left: 1160px;
+                                        font-family:Arial, Helvetica, sans-serif;
+                                        font-size: 17px;
+                                        color:#000;}
+
+                                        .text_cacau {width: 300px;  height: 0px; position: absolute; right: -0px;top: 605px; left: 1510px;
+                                            font-family:Arial, Helvetica, sans-serif;
+                                            font-size: 17px;
+                                            color:#000;}
+
+
+                                        video {position:absolute; width: 750px; top: 250px; left: 35px;}
+
+
+           .slider {
+            display: block;
+            height: 293px;
+            width: 750px;
+            left: 100px;
+            margin-top: 110px;
+            position: relative;}
+        
+        .slider li {list-style: none;position: absolute;}
+        
+        .slider img {
+            margin: auto;
+            height: 100%;
+            width: 100%;
+            vertical-align: top;}
+        
+        .slider input {display: none;}
+        
+        .slider label {
+            background-color: #000;
+            bottom: 10px;
+            cursor: pointer;
+            display: block;
+            height: 10px;
+            position: absolute;
+            width: 10px;
+            z-index: 10;}
+        
+        .slider li:nth-child(1) label {left: 10px;}
+        .slider li:nth-child(2) label {left: 40px;}
+        .slider li:nth-child(3) label {left: 70px;}
+        .slider li:nth-child(4) label {left: 100px;}
+        .slider li:nth-child(5) label {left: 130px;}
+        .slider li:nth-child(6) label {left: 160px;}
+        
+        .slider img {opacity: 0; visibility: hidden;}
+        
+        .slider li input:checked ~ img {opacity: 1;visibility: visible;z-index: 10;}
+
+        .calendario {position: absolute; left: 1000px; top: 220px;}
+        .calendario{transition: all 0.5; cursor: pointer;}
+        .calendario:hover{filter: drop-shadow(15px 10px 5px#343035b5);}
+
+
+        .funtee {
+            display: block;
+            height: 293px;
+            width: 750px;
+            left: 60px;
+            bottom: 50px;
+            margin-top: 110px;
+            position: relative;}
+        
+        .funtee li {list-style: none;position: absolute;}
+        
+        .funtee img {
+            margin: auto;
+            height: 100%;
+            width: 100%;
+            vertical-align: top;}
+        
+        .funtee input {display: none;}
+        
+        .funtee label {
+            background-color: #000;
+            bottom: 10px;
+            cursor: pointer;
+            display: block;
+            height: 10px;
+            position: absolute;
+            width: 10px;
+            z-index: 10;}
+        
+        .funtee li:nth-child(1) label {left: 10px;}
+        .funtee li:nth-child(2) label {left: 40px;}
+        .funtee li:nth-child(3) label {left: 70px;}
+        
+        .funtee img {opacity: 0; visibility: hidden;}
+        
+        .funtee li input:checked ~ img {opacity: 1;visibility: visible;z-index: 10;}
+
+     video {width: 800px;position: absolute;text-align: center;left: 500px;}
+     .video{transition: all 0.5; cursor: pointer;}
+     .video:hover{filter: drop-shadow(15px 10px 5px#343035b5);}
+
+
+
+     .text_promocional {width: 700px;  height: 0px; position: absolute; right: -0px;top: 685px; left: 570px;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        color:#000;}
+
+
+        .text_carrossel{width: 900px;  height: 0px; position: absolute; right: -0px;top: 740px; left: 100px;
+            font-family:Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            color:#000;}
